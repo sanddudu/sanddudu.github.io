@@ -1,0 +1,15 @@
+.nc-navbar {
+	text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+	background-color: #2B5F75;
+	border-color: #255359;
+	box-shadow: 0 1px 0 rgba(255,255,255,.1);
+}
+.nc-navbar .navbar-brand{
+	color: #FFFFFF;
+}
+.nc-navbar .navbar-nav > li > a {
+	color: #81C7D4;
+}
+#nichijou-im, #nichijou-ch, #moerefm, #ghostbuster{
+	visibility: hidden;
+}
